@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora do Primeiro Milhão",
+  "description": "Um simulador de juros compostos para ajudar os usuários a planejar como alcançar seu primeiro milhão. A calculadora permite calcular o tempo necessário ou a contribuição mensal necessária, exibindo os resultados com gráficos e tabelas detalhadas.",
+  "requestFramePermissions": []
+}
